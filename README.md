@@ -5,4 +5,4 @@
 🙇🏻‍♂️#learninginpublic <br/>
 Currently Learning Frontend Technologies like HTML, CSS, JAVASCRIPT, REACT..
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorekanna27)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorekanna27)
